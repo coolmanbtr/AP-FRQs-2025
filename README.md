@@ -27,5 +27,5 @@ Resources I found helpful during my exam preparation and review:
 
 #### Future Goals
 Moving forward, I plan to:
--Try and learn a new language or improve on Python.
--Get interships to increase my experience and skills in programming
+- Try and learn a new language or improve on Python.
+- Get interships to increase my experience and skills in programming.
